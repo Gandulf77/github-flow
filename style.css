@@ -14,7 +14,7 @@
   
   
   h1, h2, h3 {
-    color:  #404042;-
+    color:  #404042;
     font-family: Chivo;
   }
   
@@ -32,8 +32,8 @@
   
   
   .banner {
-    background-image:  linear-gradient(rgba(0,  0,  0,  0.6),  rgba(0,  0,  0,  0.6)),  url('images/background.jpg')
-    backgroundsize:  cover;
+    background-image:  linear-gradient(rgba(0,  0,  0,  0.6),  rgba(0,  0,  0,  0.6)),  url('images/background.jpg');
+    background-size:  cover;
     background-position:  center;
     padding:  150px  0;
     text-align:  center;
@@ -73,7 +73,7 @@
   .card-white {
     background:  white;
     box-shadow:  0  0  16px  rgba(0,  0,  0,  0.1);
-    border-radius:  4px
+    border-radius:  4px;
     width:  200px;
     text-align:  center;
     padding:  24px;
